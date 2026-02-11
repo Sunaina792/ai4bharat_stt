@@ -1,0 +1,25 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# AI4Bharat dependencies
+torch==2.1.0
+torchaudio==2.1.0
+transformers==4.35.0
+datasets==2.14.6
+
+# ONNX runtime
+onnxruntime-gpu==1.16.3
+
+# Audio processing
+librosa==0.10.1
+soundfile==0.12.1
+pydub==0.25.1
+
+# Utilities
+numpy==1.24.3
+jiwer==3.0.3
+accelerate==0.24.1
+
+# Optional
+huggingface-hub==0.19.4
