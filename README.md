@@ -1,3 +1,4 @@
+
 # 🎙️ Unified STT Service
 ## Production-Grade Speech-to-Text for English & 22+ Indian Languages
 
@@ -559,6 +560,4 @@ For issues or questions:
 **Last Updated**: January 2024  
 **Version**: 1.0.0  
 **Status**: Production Ready ✅
-#   a i 4 b h a r a t _ s t t 
- 
- 
+#
